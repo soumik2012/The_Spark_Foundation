@@ -1,4 +1,4 @@
-# <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
+ <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
 [![](https://img.shields.io/badge/Author-Soumik-kumar-Baithalu-green.svg)](https://github.com/soumik2012)<br>
 [![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/soumik2012)![](https://img.shields.io/badge/Programming_Language-Python-orange.svg)![](https://img.shields.io/badge/Status-Complete-green.svg)[![](https://img.shields.io/github/license/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/code-size/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/top/Kushal997-das/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/Follow/Kushal997-das.svg?style=plastic)](https://github.com/Kushal997-das)
@@ -14,7 +14,7 @@
 - Here is the dataset :
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/student_scores%20-%20student_scores.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a>
+<a href="https://github.com/soumik2012/The_Spark_Foundation/blob/main/Task1%20%20-%20Copy.ipynb"> Prediction using Supervised ML</a>
 
 >Demo:
 <a href="https://www.linkedin.com/posts/soumik-baithalu_gripmar21-thesparksfoundation-tsf-activity-6773287150311026688-g7vq">Prediction using Supervised ML</a>
@@ -30,7 +30,7 @@ represent it visually.<br>
 - Here is the dataset :
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a>
+<a href="https://github.com/soumik2012/The_Spark_Foundation/blob/main/Task%202.ipynb"> Prediction using UnSupervised ML</a>
 
 > Demo:
 <a href="https://www.linkedin.com/posts/soumik-baithalu_datascience-machinelearning-businessanalytics-activity-6773868323697508352-blzO">Prediction using Unsupervised ML</a>
@@ -49,7 +49,7 @@ make more profit.<br>
 - Here is the dataset :
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
+<a href="https://github.com/soumik2012/The_Spark_Foundation/blob/main/Task%203.ipynb"> Exploratory Data Analysis-Retail</a>
 
 > Demo:
 <a href="https://www.linkedin.com/posts/soumik-baithalu_task3-gripmar21-thesparksfoundation-activity-6774304674905509888-ZDBm">Exploratory Data Analysis-Retail</a>
