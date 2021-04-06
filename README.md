@@ -54,9 +54,6 @@ make more profit.<br>
 > Demo:
 <a href="https://www.linkedin.com/posts/soumik-baithalu_task3-gripmar21-thesparksfoundation-activity-6774304674905509888-ZDBm">Exploratory Data Analysis-Retail</a>
 
-<br><br>
-<img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<br>
 
 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
